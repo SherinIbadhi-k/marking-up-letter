@@ -1,6 +1,6 @@
 # Marking Up a Letter – HTML Challenge
 
-This project was created by **Sherin Ibadhi K** as part of the **"Marking Up a Letter"** web development challenge for the University of Awesome.
+This project was created by **Sherin Ibadhi K** as part of the **"Marking Up a Letter"** web development challenge for Mulearn
 
 ## 📝 Description
 The task was to semantically mark up a formal response letter from a research fellow to a prospective PhD student using clean and accessible HTML.
